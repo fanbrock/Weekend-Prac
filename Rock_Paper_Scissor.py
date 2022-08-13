@@ -14,4 +14,4 @@ while True:
     else :
         print('It is a draw.')
 
-print("Hey Yew Mun!")
+print("Hey Calvin!")
