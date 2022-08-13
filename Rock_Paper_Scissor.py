@@ -14,4 +14,3 @@ while True:
     else :
         print('It is a draw.')
 
-print("Hey Calvin!")
